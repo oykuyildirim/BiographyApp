@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Personal Biography</string>
+    <string name="gallery">Gallery</string>
+    <string name="about">About</string>
+    <string name="blog">Blog</string>
+    <string name="connection">Connetıon</string>
+    <string name="logoName">Logo</string>
+    <string name="photoMe">PhotoMe</string>
+    <string name="detail">More detail</string>
+    <string name="title_activity_gallery">activity_gallery</string>
+    <string name="detail_more">More Detail</string>
+
+    <string name="adress">Adress</string>
+    <string name="telephone">Telephone</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="gallery_item">Gallery Item</string>
+    <string name="mail">Mail</string>
+    <string name="logo">logo</string>
+    <string name="code">Code</string>
+    <string name="school">School</string>
+    <string name="level">Level</string>
+    <string name="time">Time</string>
+
+    <string name="animal">Animal</string>
+    <string name="speciesname">SpaciesName</string>
+    <string name="age">Age</string>
+    <string name="galeryItem">GaleryItem</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="codeskills">Kodlama Bilgileri</string>
+    <string name="educationkills">Eğitim Bilgileri</string>
+    <string name="surname">Surname</string>
+    <string name="life">Life</string>
+    <string name="place">Doğum Yeri</string>
+    <string name="date">Doğum Tarihi</string>
+
+
+
+
+
+</resources>

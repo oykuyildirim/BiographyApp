@@ -1,0 +1,6 @@
+package GallerySettings
+
+interface GalleryInterface {
+
+
+}
